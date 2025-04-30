@@ -20,7 +20,7 @@ export default {
                         color: COLORS.EMBED_ERROR,
                         description: `Selector target argument have to start's with '@' and end's with ']'.\n\`\`\`properties\n${source}\n\`\`\``,
                         timestamp: new Date().toISOString(),
-                        footer:{text:"by M9", icon_url: "https://cdn.discordapp.com/avatars/558197847108091914/bab24265e8b9d9fef356f85a7550961b.webp"}
+                        footer:{text:"by M9", icon_url: "https://avatars.githubusercontent.com/u/109746665?v=4"}
                     }
                 ]
             })
